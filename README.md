@@ -23,7 +23,7 @@ What I was willing to do after this stage ?
 •	to read all this files in parallel Tasks , it will make a big difference in the performance ..
 
 
-How to install Dapper on your machine 
+How to install Daper on your machine 
 =================================================
 
 1.	you need to install Docker .
