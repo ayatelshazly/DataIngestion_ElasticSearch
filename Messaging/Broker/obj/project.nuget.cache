@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qTIFDZKxICVpuDf43eSCvK5/jbihhXbNPD/fhLAcQYWk3LfeoAq5aEM1k0httkKlc/O0Hi3Ewy17wNL+ofYNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\Messaging\\Broker\\Broker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayat.elshazly\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

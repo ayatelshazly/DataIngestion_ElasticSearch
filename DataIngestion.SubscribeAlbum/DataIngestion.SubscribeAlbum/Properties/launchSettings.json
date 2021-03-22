@@ -1,0 +1,30 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false, 
+    "anonymousAuthentication": true, 
+    "iisExpress": {
+      "applicationUrl": "http://localhost:61665",
+      "sslPort": 44353
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "api/album",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "LinkFireTest": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/album",
+      "applicationUrl": "http://localhost:61665",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      } 
+    }
+  }
+}

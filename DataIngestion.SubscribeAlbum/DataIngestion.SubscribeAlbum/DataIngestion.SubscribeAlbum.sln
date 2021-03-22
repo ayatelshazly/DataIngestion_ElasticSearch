@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataIngestion.SubscribeAlbum", "DataIngestion.SubscribeAlbum.csproj", "{D271DAB9-E7FA-4F07-95AA-AEF33F128A87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataIngestion.SubscribeAlbum.UnitTest", "..\DataIngestion.SubscribeAlbum.UnitTest\DataIngestion.SubscribeAlbum.UnitTest.csproj", "{A6A3FE26-1D7A-4608-9D67-08B94C4162AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D271DAB9-E7FA-4F07-95AA-AEF33F128A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D271DAB9-E7FA-4F07-95AA-AEF33F128A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D271DAB9-E7FA-4F07-95AA-AEF33F128A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D271DAB9-E7FA-4F07-95AA-AEF33F128A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A3FE26-1D7A-4608-9D67-08B94C4162AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A3FE26-1D7A-4608-9D67-08B94C4162AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A3FE26-1D7A-4608-9D67-08B94C4162AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A3FE26-1D7A-4608-9D67-08B94C4162AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C4E5DAD-7A38-491D-8CE0-C4F983850E83}
+	EndGlobalSection
+EndGlobal

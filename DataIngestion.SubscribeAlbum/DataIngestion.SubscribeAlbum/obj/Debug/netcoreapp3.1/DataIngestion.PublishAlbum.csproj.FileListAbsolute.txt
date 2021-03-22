@@ -1,0 +1,4 @@
+C:\Users\ayat.elshazly\Desktop\LinkFireTest\LinkFireTest\LinkFireTest\obj\Debug\netcoreapp3.1\DataIngestion.PublishAlbum.AssemblyInfoInputs.cache
+C:\Users\ayat.elshazly\Desktop\LinkFireTest\LinkFireTest\LinkFireTest\obj\Debug\netcoreapp3.1\DataIngestion.PublishAlbum.AssemblyInfo.cs
+C:\Users\ayat.elshazly\Desktop\LinkFireTest\LinkFireTest\LinkFireTest\obj\Debug\netcoreapp3.1\DataIngestion.PublishAlbum.csproj.CoreCompileInputs.cache
+C:\Users\ayat.elshazly\Desktop\LinkFireTest\LinkFireTest\LinkFireTest\obj\Debug\netcoreapp3.1\DataIngestion.PublishAlbum.MvcApplicationPartsAssemblyInfo.cache

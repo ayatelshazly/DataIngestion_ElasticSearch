@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Windsor" Version="5.1.1" />
+    <PackageReference Include="Elasticsearch.Net" Version="7.11.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+    <PackageReference Include="Moq" Version="4.16.1" />
+    <PackageReference Include="NEST" Version="7.11.1" />
+    <PackageReference Include="xunit" Version="2.4.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+    <PackageReference Include="coverlet.collector" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataIngestion.SubscribeAlbum\DataIngestion.SubscribeAlbum.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Events">
+      <HintPath>..\..\Messaging\Events\bin\Debug\netcoreapp3.1\Events.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

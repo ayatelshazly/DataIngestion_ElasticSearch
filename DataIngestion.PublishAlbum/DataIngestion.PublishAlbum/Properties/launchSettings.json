@@ -1,0 +1,30 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:16334",
+      "sslPort": 44323
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "publishalbum",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "DataIngestion.PublishAlbum": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "publishalbum",
+      "applicationUrl": "http://localhost:16334",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      } 
+    }
+  }
+}

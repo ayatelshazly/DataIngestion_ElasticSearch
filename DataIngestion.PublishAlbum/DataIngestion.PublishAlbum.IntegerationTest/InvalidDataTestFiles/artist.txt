@@ -1,0 +1,6 @@
+#export_dateartist_idnameis_actual_artistview_urlartist_type_id
+#primaryKey:artist_id
+#dbTypes:BIGINTBIGINTVARCHAR(1000)BOOLEANVARCHAR(1000)INTEGER
+1157458Daniel Johnston1https://lnk.fire.com/artist/daniel-johnston/
+1754259Mariss Jansons1https://lnk.fire.com/artist/mariss-jansons/id754259?uo=5
+1875728Clay Blaker1https://lnk.fire.com/artist/clay-blaker/id875728?uo=51
