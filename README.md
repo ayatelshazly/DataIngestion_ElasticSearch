@@ -37,7 +37,8 @@ How to install Daper on your machine
 6.	on the command prompt copy and past this below command
 •	dapr init
 7.	and that's it 
-8.	if you face any problem in installation visit again this site = >  https://docs.dapr.io/getting-started/install-dapr-selfhost/ 
+8.	If you face any problem in installation visit again this site = >  https://docs.dapr.io/getting-started/install-dapr-selfhost/ 
+or contact me by mail : ayat_cse@yahoo.com
 
 How to run the project on your machine 
 ================================
