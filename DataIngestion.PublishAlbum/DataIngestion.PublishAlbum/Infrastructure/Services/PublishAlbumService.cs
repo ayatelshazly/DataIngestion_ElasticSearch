@@ -41,7 +41,7 @@ namespace DataIngestion.PublishAlbum.Infrastructure.Services
         }
         public async Task<List<CollectionModel>> ReadCollectionFileAsync(string collectionFilePath)
         {
-            collectionFilePath = collectionFilePath + "collection.txt";
+            collectionFilePath = collectionFilePath + "\\collection.txt";
             DateTime? releaseDate = null;
             bool? isCompilation = null;
 
@@ -76,7 +76,7 @@ namespace DataIngestion.PublishAlbum.Infrastructure.Services
         public async Task<List<ArtistModel>> ReadArtistFileAsync(string artistFilePath)
         {
 
-            artistFilePath = artistFilePath + "artist.txt";
+            artistFilePath = artistFilePath + "\\artist.txt";
             if (File.Exists(artistFilePath))
             {
                 string[] lines = await File.ReadAllLinesAsync(artistFilePath);
@@ -106,7 +106,7 @@ namespace DataIngestion.PublishAlbum.Infrastructure.Services
         public async Task<List<CollectionMatchModel>> ReadCollectionMatchFileAsync(string collectionMatch)
         {
             long? upc = null;
-            collectionMatch = collectionMatch + "collection_match.txt";
+            collectionMatch = collectionMatch + "\\collection_match.txt";
 
             if (File.Exists(collectionMatch))
             {
@@ -139,7 +139,7 @@ namespace DataIngestion.PublishAlbum.Infrastructure.Services
         public async Task<List<ArtistCollectionModel>> ReadArtistCollectionFileAsync(string artistCollectionFilePath)
         {
 
-            artistCollectionFilePath = artistCollectionFilePath + "artist_collection.txt";
+            artistCollectionFilePath = artistCollectionFilePath + "\\artist_collection.txt";
             if (File.Exists(artistCollectionFilePath))
             {
                 string[] lines = await File.ReadAllLinesAsync(artistCollectionFilePath);
