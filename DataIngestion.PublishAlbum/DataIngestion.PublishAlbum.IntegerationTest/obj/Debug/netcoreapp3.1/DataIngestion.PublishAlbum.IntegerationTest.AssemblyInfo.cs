@@ -12,8 +12,8 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("DataIngestion.PublishAlbum, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" +
-    "", "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\DataIngestion.PublishAl" +
-    "bum\\DataIngestion.PublishAlbum", "DataIngestion.PublishAlbum.csproj", "0")]
+    "", "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\DataIng" +
+    "estion.PublishAlbum\\DataIngestion.PublishAlbum", "DataIngestion.PublishAlbum.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataIngestion.PublishAlbum.IntegerationTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

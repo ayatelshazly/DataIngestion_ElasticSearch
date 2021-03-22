@@ -8128,11 +8128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.IntegerationTest\\DataIngestion.PublishAlbum.IntegerationTest.csproj",
+      "projectUniqueName": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.IntegerationTest\\DataIngestion.PublishAlbum.IntegerationTest.csproj",
       "projectName": "DataIngestion.PublishAlbum.IntegerationTest",
-      "projectPath": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.IntegerationTest\\DataIngestion.PublishAlbum.IntegerationTest.csproj",
+      "projectPath": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.IntegerationTest\\DataIngestion.PublishAlbum.IntegerationTest.csproj",
       "packagesPath": "C:\\Users\\ayat.elshazly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.IntegerationTest\\obj\\",
+      "outputPath": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.IntegerationTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -8154,8 +8154,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.csproj": {
-              "projectPath": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.csproj"
+            "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.csproj": {
+              "projectPath": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.csproj"
             }
           }
         }

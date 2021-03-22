@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KCP4q8lWwkToa45oZE5OACgkaesNM0KgFy4sX+Xx0/KA3bY6En84OTtl9C/tpJlVWwyFw57PjiFYd3ytiesngQ==",
+  "dgSpecHash": "UzZ7vEqyw6/NnqnhxVgnuTlN43LzmFHd8cp77KkULVkr8b0fDGtN3URIvx8Wb5c0/LiVoeO/B9vYGHPKdAFwjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\DataIngestion.SubscribeAlbum\\DataIngestion.SubscribeAlbum\\DataIngestion.SubscribeAlbum.csproj",
+  "projectFilePath": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\DataIngestion.SubscribeAlbum\\DataIngestion.SubscribeAlbum\\DataIngestion.SubscribeAlbum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ayat.elshazly\\.nuget\\packages\\dapr.aspnetcore\\0.12.0-preview01\\dapr.aspnetcore.0.12.0-preview01.nupkg.sha512",
     "C:\\Users\\ayat.elshazly\\.nuget\\packages\\dapr.client\\0.12.0-preview01\\dapr.client.0.12.0-preview01.nupkg.sha512",

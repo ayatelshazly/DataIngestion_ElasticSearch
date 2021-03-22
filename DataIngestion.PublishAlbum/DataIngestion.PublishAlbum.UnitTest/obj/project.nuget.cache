@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oGQrPHYgs0/FB76a6TMnjgV5WP8wyoBGlsiF6Fy3LWddFy+rP1RE73QDgbdtThs/KyptCsczw5X6jItwsrSjNQ==",
+  "dgSpecHash": "NQHomSFnCyk5YOmx6hcwyzp0WtCX9H7PZA3Xg+velUajZk59l6RXliimi10OWPBXk/2eXMtMEYsE8LyAiTosyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.UnitTest\\DataIngestion.PublishAlbum.UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.UnitTest\\DataIngestion.PublishAlbum.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ayat.elshazly\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ayat.elshazly\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

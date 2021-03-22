@@ -16,3 +16,12 @@ C:\Users\ayat.elshazly\Desktop\LinkFireTest\DataIngestion\Messaging\Events\obj\D
 C:\Users\ayat.elshazly\Desktop\LinkFireTest\DataIngestion\Messaging\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
 C:\Users\ayat.elshazly\Desktop\LinkFireTest\DataIngestion\Messaging\Events\obj\Debug\netcoreapp3.1\Events.dll
 C:\Users\ayat.elshazly\Desktop\LinkFireTest\DataIngestion\Messaging\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Events\obj\Debug\netcoreapp3.1\Events.pdb

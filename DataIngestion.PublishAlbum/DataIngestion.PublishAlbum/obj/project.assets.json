@@ -1401,11 +1401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.csproj",
+      "projectUniqueName": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.csproj",
       "projectName": "DataIngestion.PublishAlbum",
-      "projectPath": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.csproj",
+      "projectPath": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum.csproj",
       "packagesPath": "C:\\Users\\ayat.elshazly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum\\obj\\",
+      "outputPath": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\DataIngestion.PublishAlbum\\DataIngestion.PublishAlbum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

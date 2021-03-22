@@ -16,3 +16,12 @@ C:\Users\ayat.elshazly\Desktop\LinkFireTest\DataIngestion\Messaging\Broker\obj\D
 C:\Users\ayat.elshazly\Desktop\LinkFireTest\DataIngestion\Messaging\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
 C:\Users\ayat.elshazly\Desktop\LinkFireTest\DataIngestion\Messaging\Broker\obj\Debug\netcoreapp3.1\Broker.dll
 C:\Users\ayat.elshazly\Desktop\LinkFireTest\DataIngestion\Messaging\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Broker\obj\Debug\netcoreapp3.1\Broker.csprojAssemblyReference.cache
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+C:\Users\ayat.elshazly\Desktop\New folder (2)\DataIngestion_ElasticSearch\Messaging\Broker\obj\Debug\netcoreapp3.1\Broker.pdb

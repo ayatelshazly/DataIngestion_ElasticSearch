@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\Messaging\\Events\\Events.csproj": {}
+    "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\Messaging\\Events\\Events.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\Messaging\\Events\\Events.csproj": {
+    "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\Messaging\\Events\\Events.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\Messaging\\Events\\Events.csproj",
+        "projectUniqueName": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\Messaging\\Events\\Events.csproj",
         "projectName": "Events",
-        "projectPath": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\Messaging\\Events\\Events.csproj",
+        "projectPath": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\Messaging\\Events\\Events.csproj",
         "packagesPath": "C:\\Users\\ayat.elshazly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayat.elshazly\\Desktop\\LinkFireTest\\DataIngestion\\Messaging\\Events\\obj\\",
+        "outputPath": "C:\\Users\\ayat.elshazly\\Desktop\\New folder (2)\\DataIngestion_ElasticSearch\\Messaging\\Events\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
