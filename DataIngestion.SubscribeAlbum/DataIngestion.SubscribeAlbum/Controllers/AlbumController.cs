@@ -47,6 +47,5 @@ namespace DataIngestion.SubscribeAlbum.Controllers
         }
         #endregion
 
-
     }
 }

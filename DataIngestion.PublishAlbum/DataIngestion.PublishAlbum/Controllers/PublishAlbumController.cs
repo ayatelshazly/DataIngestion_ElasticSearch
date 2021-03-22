@@ -1,10 +1,8 @@
-﻿using DataIngestion.PublishAlbum.Models;
-using DataIngestion.PublishAlbum.UseCases.Album;
+﻿using DataIngestion.PublishAlbum.UseCases.Album;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 
 
@@ -20,13 +18,11 @@ namespace DataIngestion.PublishAlbum.Controllers
         {
             _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
         }
-
-        // GET: api/<PublishAlbumController>
         
 
         #region Album Publish events
         [HttpPost]
-        [ProducesResponseType(StatusCodes.Status202Accepted)]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> PublishAlbum(string readingPath)
         {

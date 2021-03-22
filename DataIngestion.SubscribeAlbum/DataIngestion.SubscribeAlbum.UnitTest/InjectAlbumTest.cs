@@ -20,11 +20,7 @@ namespace DataIngestion.SubscribeAlbum.UnitTest
         public async Task InjectAlbumToElastic_CorrectData_Succeed(long id, string name,long upc, string url, string label, string imageUrl)
         {
          
-
-            var elasticClient = new Mock<IElasticClient>();
-
-            //Arrange
-            
+            //Arrange            
             var albumModelEventlist = new List<AlbumModelEvent>()
             {
                 new AlbumModelEvent() {
@@ -54,25 +50,21 @@ namespace DataIngestion.SubscribeAlbum.UnitTest
                 }
                 };
             
-
+            // Act
             var mockSearchResponse = new Mock<ISearchResponse<AlbumModelEvent>>();
             mockSearchResponse.Setup(x => x.Documents).Returns(albumModelEventlist);
  
             var mockElasticClient = new Mock<IElasticClient>();
-
             mockElasticClient.Setup(x => x
                 .Search(It.IsAny<Func<SearchDescriptor<AlbumModelEvent>, ISearchRequest>>()))
-            .Returns(mockSearchResponse.Object);
-             
+            .Returns(mockSearchResponse.Object);             
             var service =new  AlbumService(mockElasticClient.Object);
-
             await service.InjectAlbumAsync(albumModelEventlist.First());
             var albumModelEventExpected = service.GetResult();
+
+            // Assert
             Assert.NotNull(albumModelEventExpected);
             Assert.True(albumModelEventExpected.Count()>0);
-
-
-
 
         }
     }
