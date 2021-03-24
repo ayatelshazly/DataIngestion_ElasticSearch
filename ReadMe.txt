@@ -47,4 +47,4 @@ How to run the project on your machine
 •	dapr run --app-id subservice --app-port 61665 --dapr-http-port 6000 dotnet run
 
 3.	 Call this Below API , and pass valid path to it , please add extension .txt to files 
-•	http://localhost:16334/api/PublishAlbum?readingPath="../../../ValidDataTestFiles/" 
+•	http://localhost:16334/api/PublishAlbum?readingPath="C:\AlbumDB" 
